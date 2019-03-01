@@ -8,3 +8,5 @@ peak learning python
 还是有点收获的，已经学习到 https://www.icourse163.org/learn/BIT-268001#/learn/announce 的第一周结束了。
 # 190221
 做了一下python123的本周作业，有一点信心可以学好。
+# 190301
+不知不觉，都已经有一周没有碰到python了。计划还是要实施啊。
